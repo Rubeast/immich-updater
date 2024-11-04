@@ -1,3 +1,7 @@
+# Changes in this fork
+Added error handling and feedback in the console when running the script manually.
+First time forking. Don't know if this is the way to go.
+
 # Immich Updater
 
 Simple and dumb Immich server updater.

@@ -1,4 +1,7 @@
 # Changes in this fork
+First time forking. Be gentle.
+
+Changes:
 - More error handling
 - More Console feedback
 - Logging to the IMMICH_DIR
